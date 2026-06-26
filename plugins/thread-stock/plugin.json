@@ -1,0 +1,20 @@
+{
+  "name": "thread-stock",
+  "description": "A-share thematic stock selection — supply chain, earnings, valuation, and flow analysis.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sphinm"
+  },
+  "homepage": "https://github.com/Sphinm/finance-skills",
+  "repository": "https://github.com/Sphinm/finance-skills",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "a-share",
+    "china",
+    "stock-selection",
+    "thematic",
+    "sector-rotation",
+    "supply-chain"
+  ]
+}
