@@ -1,0 +1,36 @@
+{
+  "name": "finance-skills",
+  "owner": {
+    "name": "Sphinm"
+  },
+  "metadata": {
+    "description": "Agent skills for A-share research — a-finance-skills unified router, data, analysis, screening, social readers.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cn-data-providers",
+      "source": "./plugins/data-providers",
+      "description": "A-share data — quotes, fund flow, research, signals, fundamentals, news, sentiment; trading-data sub-router.",
+      "version": "1.1.0"
+    },
+    {
+      "name": "cn-market-analysis",
+      "source": "./plugins/market-analysis",
+      "description": "A-share analysis — a-finance-skills unified router, selection, sector rotation, valuation, earnings, volume-price, correlation, liquidity, ETF premium.",
+      "version": "1.1.0"
+    },
+    {
+      "name": "cn-screening-tools",
+      "source": "./plugins/screening-tools",
+      "description": "A-share screening — weekly scan and sector fund flow SQLite collector.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "cn-social-readers",
+      "source": "./plugins/social-readers",
+      "description": "A-share social readers — Eastmoney, Xueqiu, CLS telegraph, opencli CN fallback.",
+      "version": "1.0.0"
+    }
+  ]
+}

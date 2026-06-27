@@ -1,5 +1,5 @@
 {
   "name": "finance-skills",
-  "description": "Claude skills marketplace for Chinese equity thematic stock selection.",
+  "description": "Agent skills for A-share research — a-finance-skills unified router, data, analysis, screening, social readers.",
   "version": "0.1.0"
 }

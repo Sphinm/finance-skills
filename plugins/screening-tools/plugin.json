@@ -1,0 +1,10 @@
+{
+  "name": "cn-screening-tools",
+  "description": "A-share screening scripts — weekly stock scan and sector fund flow collector with SQLite history.",
+  "version": "1.0.0",
+  "author": { "name": "Sphinm" },
+  "homepage": "https://github.com/Sphinm/finance-skills",
+  "repository": "https://github.com/Sphinm/finance-skills",
+  "license": "MIT",
+  "keywords": ["finance", "a-share", "china", "screening", "fund-flow"]
+}

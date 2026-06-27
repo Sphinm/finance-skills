@@ -1,0 +1,10 @@
+{
+  "name": "cn-data-providers",
+  "description": "A-share data — quotes, fund flow, research, signals, fundamentals, news, sentiment; trading-data sub-router.",
+  "version": "1.0.0",
+  "author": { "name": "Sphinm" },
+  "homepage": "https://github.com/Sphinm/finance-skills",
+  "repository": "https://github.com/Sphinm/finance-skills",
+  "license": "MIT",
+  "keywords": ["finance", "a-share", "china", "market-data", "quotes", "fund-flow"]
+}

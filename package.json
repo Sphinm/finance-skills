@@ -1,5 +1,5 @@
 {
   "name": "finance-skills",
   "private": true,
-  "description": "Claude skills for Chinese equity selection (thread-stock)"
+  "description": "Agent skills for A-share research — a-finance-skills router, data, analysis, screening, social readers"
 }

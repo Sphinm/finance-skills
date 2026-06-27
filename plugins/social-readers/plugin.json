@@ -1,0 +1,10 @@
+{
+  "name": "cn-social-readers",
+  "description": "A-share social and news readers — Eastmoney, Xueqiu, CLS telegraph, opencli fallback.",
+  "version": "1.0.0",
+  "author": { "name": "Sphinm" },
+  "homepage": "https://github.com/Sphinm/finance-skills",
+  "repository": "https://github.com/Sphinm/finance-skills",
+  "license": "MIT",
+  "keywords": ["finance", "a-share", "china", "eastmoney", "xueqiu", "news"]
+}

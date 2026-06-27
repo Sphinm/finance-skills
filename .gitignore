@@ -1,4 +1,4 @@
-data/
+plugins/screening-tools/data/
 *.db
 *.sqlite
 __pycache__/
